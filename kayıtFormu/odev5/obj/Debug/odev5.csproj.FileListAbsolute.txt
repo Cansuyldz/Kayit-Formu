@@ -1,0 +1,22 @@
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\görsel prog\21015222027_odev5\odev5\odev5\bin\Debug\odev5.exe.config
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\görsel prog\21015222027_odev5\odev5\odev5\bin\Debug\odev5.exe
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\görsel prog\21015222027_odev5\odev5\odev5\bin\Debug\odev5.pdb
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\görsel prog\21015222027_odev5\odev5\odev5\obj\Debug\odev5.csproj.AssemblyReference.cache
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\görsel prog\21015222027_odev5\odev5\odev5\obj\Debug\odev5.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\görsel prog\21015222027_odev5\odev5\odev5\obj\Debug\odev5.Form1.resources
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\görsel prog\21015222027_odev5\odev5\odev5\obj\Debug\odev5.Properties.Resources.resources
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\görsel prog\21015222027_odev5\odev5\odev5\obj\Debug\odev5.csproj.GenerateResource.cache
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\görsel prog\21015222027_odev5\odev5\odev5\obj\Debug\odev5.csproj.CoreCompileInputs.cache
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\görsel prog\21015222027_odev5\odev5\odev5\obj\Debug\odev5.exe
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\görsel prog\21015222027_odev5\odev5\odev5\obj\Debug\odev5.pdb
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\21015222027_odev5\odev5\odev5\bin\Debug\odev5.exe.config
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\21015222027_odev5\odev5\odev5\bin\Debug\odev5.exe
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\21015222027_odev5\odev5\odev5\bin\Debug\odev5.pdb
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\21015222027_odev5\odev5\odev5\obj\Debug\odev5.csproj.AssemblyReference.cache
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\21015222027_odev5\odev5\odev5\obj\Debug\odev5.csproj.SuggestedBindingRedirects.cache
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\21015222027_odev5\odev5\odev5\obj\Debug\odev5.Form1.resources
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\21015222027_odev5\odev5\odev5\obj\Debug\odev5.Properties.Resources.resources
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\21015222027_odev5\odev5\odev5\obj\Debug\odev5.csproj.GenerateResource.cache
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\21015222027_odev5\odev5\odev5\obj\Debug\odev5.csproj.CoreCompileInputs.cache
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\21015222027_odev5\odev5\odev5\obj\Debug\odev5.exe
+C:\Users\cansu\Desktop\caNsu\algoritma\görsel ödevleri\21015222027_odev5\odev5\odev5\obj\Debug\odev5.pdb
